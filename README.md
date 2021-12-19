@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @navee246
 - 👀 I’m interested in Developing new products and Programming 
-- 🌱 I’m currently Pursuing my Master's in Arizona State University
+- 🌱 I’m currently Pursuing my Master's in Computer Science at Arizona State University
 - 💞️ I’m looking to collaborate on any given Problem
 - 📫 My email Id is: naveenreddykontham@gmail.com
 
